@@ -1,6 +1,7 @@
+import React from "react";
 import Button from "./Button";
 
-function HeroSection() {
+function HeroSection(): JSX.Element {
   return (
     <div className="px-3 text-center mt-12">
       <h1 className="leading-[40px] sm:leading-[75.6px]">
