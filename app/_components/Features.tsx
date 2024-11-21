@@ -10,7 +10,7 @@ export default function Features() {
     <div className="w-[90%] mx-auto mt-12">
       <SectionHeading content="Our" content2="features" />
       <div className="grid grid-cols-2 grid-rows-2 gap-6">
-        <section className="flex gap-6 items-center">
+        <section className="flex justify-center gap-6 items-center bg-secondary rounded-lg h-[10.5rem]">
           <Image src={frontt} alt="frontend-engineer" />
           <div className="flex flex-col gap-2">
             <h3 className="text-[26px] font-bold">Frontend Engineer Intern</h3>
@@ -20,7 +20,7 @@ export default function Features() {
             </p>
           </div>
         </section>
-        <section className="flex gap-6 items-center">
+        <section className="flex gap-6 justify-center items-center bg-secondary rounded-lg h-[10.5rem]">
           <Image src={mobileApp} alt="frontend-engineer" />
           <div className="ml-3 flex flex-col gap-2">
             <h3 className="text-[26px] font-bold">Mobile App Dev - JSM Tec</h3>
@@ -30,7 +30,7 @@ export default function Features() {
             </p>
           </div>
         </section>
-        <section className="flex gap-6 items-center">
+        <section className="flex gap-6 justify-center items-center bg-secondary rounded-lg h-[10.5rem]">
           <Image src={bulb} alt="frontend-engineer" />
           <div className="flex flex-col gap-2">
             <h3 className="text-[26px] font-bold">Freelance App Dev Project</h3>
@@ -40,7 +40,7 @@ export default function Features() {
             </p>
           </div>
         </section>
-        <section className="flex gap-6 items-center">
+        <section className="flex gap-6 justify-center items-center bg-secondary rounded-lg h-[10.5rem]">
           <Image src={leadFrontend} alt="frontend-engineer" />
           <div className="flex flex-col gap-2">
             <h3 className="text-[26px] font-bold">Lead Frontend Developer</h3>

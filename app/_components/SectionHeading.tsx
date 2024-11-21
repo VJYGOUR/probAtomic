@@ -8,7 +8,7 @@ const SectionHeading: React.FC<SectionHeadingProps> = ({
   content2,
 }) => {
   return (
-    <h2 className="text-[48px] font-bold text-center">
+    <h2 className="text-[48px] font-bold text-center mb-12">
       {content} <span className="text-accent">{content2}</span>
     </h2>
   );
