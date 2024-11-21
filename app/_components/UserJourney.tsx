@@ -5,7 +5,7 @@ export default function UserJourney() {
   return (
     <div className="mt-20 px-8">
       <SectionHeading content="User" content2="Journey" />
-      <div className="flex gap-8 mt-12 h-[25rem]">
+      <div className="flex gap-8 mt-12 h-[38.6rem]">
         <section className="flex flex-col gap-4 items-center justify-center text-center bg-secondary rounded-lg px-8  ">
           <button className="text-accent border solid rounded px-3 py-2 border-accent">
             Phase 1
