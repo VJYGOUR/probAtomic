@@ -5,6 +5,9 @@ const colors: {
   tertiary: string;
   foreground: string;
   accent: string;
+  features: string;
+  review: string;
+  userJourney: string;
   misc: {
     success: string;
     message: string;
@@ -17,6 +20,10 @@ const colors: {
   tertiary: "#1f1f1f",
   foreground: "#ffffff",
   accent: "#c2e890",
+  features: "#BEC1DD",
+  review: "#c1c2d3",
+  userJourney: "#e4ecff",
+
   misc: {
     success: "#1cba35",
     message: "#ffb700",

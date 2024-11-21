@@ -4,6 +4,9 @@ import NavBar from "./_components/NavBar";
 
 import Main from "./_components/Main";
 import Swipe from "./_components/Swipe";
+import Features from "./_components/Features";
+import UserJourney from "./_components/UserJourney";
+import CallToAction from "./_components/CallToAction";
 export default function Home(): JSX.Element {
   return (
     <>
@@ -11,6 +14,9 @@ export default function Home(): JSX.Element {
       <HeroSection />
       <Main />
       <Swipe />
+      <Features />
+      <UserJourney />
+      <CallToAction />
     </>
   );
 }
