@@ -10,7 +10,7 @@ export default function UserJourney() {
           <button className="text-accent border solid rounded px-3 py-2 border-accent">
             Phase 1
           </button>
-          <h2 className="text-[32px]">Grab A PRroblem</h2>
+          <h2 className="text-[32px] font-bold">Grab A PRroblem</h2>
           <p className="text-userJourney">
             Once we agree on the plan, I cue my lofi playlist and dive into
             coding. From initial sketches to polished code, I keep you updated
@@ -21,7 +21,7 @@ export default function UserJourney() {
           <button className="text-accent border solid rounded px-3 py-2 border-accent">
             Phase 1
           </button>
-          <h2 className="text-[32px]">Solve It</h2>
+          <h2 className="text-[32px] font-bold">Solve It</h2>
           <p className="text-userJourney">
             Once we agree on the plan, I cue my lofi playlist and dive into
             coding. From initial sketches to polished code, I keep you updated
@@ -32,7 +32,7 @@ export default function UserJourney() {
           <button className="text-accent border solid rounded px-3 py-2 border-accent">
             Phase 1
           </button>
-          <h2 className="text-[32px]">Claim The Reward</h2>
+          <h2 className="text-[32px] font-bold">Claim The Reward</h2>
           <p className="text-userJourney">
             Once we agree on the plan, I cue my lofi playlist and dive into
             coding. From initial sketches to polished code, I keep you updated
